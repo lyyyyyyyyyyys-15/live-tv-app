@@ -25,7 +25,8 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250" alt="Home">
+  <img src="<img width="601" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac703c3c-02ba-4601-aa5a-33207ceab759" />
+" width="250" alt="Home">
   <img src="screenshots/matches.png" width="250" alt="Matches">
   <img src="screenshots/settings.png" width="250" alt="Settings">
 </p>
